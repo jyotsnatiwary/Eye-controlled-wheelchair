@@ -77,6 +77,7 @@ interactive mode by only using user's eye.
 * We shall be using eye tracking primarily for mouse controlling. Our goal is to achieve
 basic mouse activity and traversal just by using eye movements. It includes, Scrolling,
 Cursor Traversal and Clicking (Left and right).
+
 * Project Components:
 1. Python
 2. OpenCV
