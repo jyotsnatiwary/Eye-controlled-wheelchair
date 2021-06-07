@@ -70,18 +70,19 @@ any given area, by matching the calculated eye position from the incoming data s
 x-y coordinates of each area of interest on the stimulus monitor. Several dependent measures
 can be obtained from this input stream, including patterns of fixation, saccades (that is, the
 rapid eye movements between fixations), and pupil dilation.
-● Eye movement can be regarded as a pivotal real-time input medium for humancomputer communication, which is especially important for people with physical
+
+*Eye movement can be regarded as a pivotal real-time input medium for humancomputer communication, which is especially important for people with physical
 disability. The proposed system focuses on providing a simple and convenient
 interactive mode by only using user's eye.
-● We shall be using eye tracking primarily for mouse controlling. Our goal is to achieve
+* We shall be using eye tracking primarily for mouse controlling. Our goal is to achieve
 basic mouse activity and traversal just by using eye movements. It includes, Scrolling,
 Cursor Traversal and Clicking (Left and right).
-● Project Components:
-⮚ Python
-⮚ OpenCV
-⮚ NumPy
-⮚ Webcam
-● In recent years, with the development of better and cheaper components for eye gaze
+* Project Components:
+1. Python
+2. OpenCV
+3. NumPy
+4. Webcam
+* In recent years, with the development of better and cheaper components for eye gaze
 interaction, low-cost eye trackers have been produced by several high-profile
 companies, such as Tobii's EyeX tracker, Gaze Point’s GP3 tracker, and the Eye Tribe
 Tracker. As eye tracking gear gets cheaper, new applications with the concept of
