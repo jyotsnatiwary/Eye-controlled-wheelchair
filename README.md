@@ -71,7 +71,7 @@ x-y coordinates of each area of interest on the stimulus monitor. Several depend
 can be obtained from this input stream, including patterns of fixation, saccades (that is, the
 rapid eye movements between fixations), and pupil dilation.
 
-*Eye movement can be regarded as a pivotal real-time input medium for humancomputer communication, which is especially important for people with physical
+* Eye movement can be regarded as a pivotal real-time input medium for humancomputer communication, which is especially important for people with physical
 disability. The proposed system focuses on providing a simple and convenient
 interactive mode by only using user's eye.
 * We shall be using eye tracking primarily for mouse controlling. Our goal is to achieve
@@ -90,3 +90,23 @@ using eye tracking in HCI are clearly beginning to blossom.
 
 ![1](https://user-images.githubusercontent.com/43038862/120959168-d21b3980-c776-11eb-8b8a-166ab58ac66a.JPG)
 
+# 3 Result and Outcomes
+* Initially, we had aimed at building a Wheel Chair similar to that of Stefan Hawking’s.
+But later, we realised that a major drawback of Hawking’s chair is time delay. His
+model first captured the image and then transferred it to detection module which
+caused a major time lag and required a lot of database space.
+* Hence, we decided to overcome this flaw and increase the accuracy of our model by
+creating a real time low-cost Gaze detection with an accuracy rate of 98%.
+* Our model performs real time detection of the pupil using the CV-2 tools and hence
+results in 0-time lag.
+* Our model is also equipped with eye-controlled keyboard typing with the help of gaze
+ratio at an accuracy rate of 95%. The user of our model can type and express just by
+looking at the letters.
+* The eye directive wheelchair prototype requires no human contact and is a life saviour
+for people suffering from Quadriplegia, disease that restricts all body movement
+except eye and eyebrow muscle.
+* The novelty of our system lies in the fact that no part of the system physically
+interacts with the user, as a result making him feel comfortable. A mounted camera
+tracks the eye movement and controls the wheelchair, thus enabling the patient to
+move around with confidence. The patient’s family will also be able to track his
+whereabouts by looking at database updates.
