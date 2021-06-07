@@ -36,9 +36,9 @@ obtained. Most programs also offer a variety of visualization options for displa
 individual data patterns from a single participant or aggregated patterns across groups of
 participants.
 
-## 2. major steps that provide the basic framework for eye tracking are:
+# 2. major steps that provide the basic framework for eye tracking are:
 
-# 2.1 Process of Data Collection via Eye tracking:
+## 2.1 Process of Data Collection via Eye tracking:
 Data collection for eye tracking research consists of two phases. The first phase is the
 calibration phase, in which the technology obtains information about the size, curvature, and
 position of the eye. The research phase then presents the task of interest for data acquisition.
@@ -60,7 +60,7 @@ In task-based paradigms, the participant searches the image(s) on the basis of s
 instruction. Often, the participant may be instructed to make a judgment about the image, for
 instance, to determine the emotion on a face or find a target on the screen.
 
-# 2.2 Quantifying the Data Recorded in Eye Tracking: Dependent Measures:
+## 2.2 Quantifying the Data Recorded in Eye Tracking: Dependent Measures:
 To quantify the stream of data recording the x-y coordinates of the participants’ gaze, each
 stimulus image is divided into “regions” or “areas of interest” using a drawing program in the
 eye tracking software. Each area of interest is enclosed within a border, and what constitutes
