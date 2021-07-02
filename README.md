@@ -91,7 +91,7 @@ using eye tracking in HCI are clearly beginning to blossom.
 
 ![1](https://user-images.githubusercontent.com/43038862/120959168-d21b3980-c776-11eb-8b8a-166ab58ac66a.JPG)
 
-# 3 Result and Outcomes
+# 3. Result and Outcomes
 * Initially, we had aimed at building a Wheel Chair similar to that of Stefan Hawking’s.
 But later, we realised that a major drawback of Hawking’s chair is time delay. His
 model first captured the image and then transferred it to detection module which
